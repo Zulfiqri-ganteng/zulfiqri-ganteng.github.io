@@ -4,5 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/sewx2253/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp .htaccess $DEPLOYPATH
-    - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp htaccess.txt $DEPLOYPATH
+    # - /bin/cp style.css $DEPLOYPATH
